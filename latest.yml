@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: TomWork-Setup-1.0.0.exe
+    sha512: mGEPUbRG/boUK6BhajdWJ3H5V13a18yt3d530jFlR/0cTSlF/S1mFrdNSmWhtY1DOzTV+oWGYUm5tPRmA8V5KA==
+    size: 80078820
+path: TomWork-Setup-1.0.0.exe
+sha512: mGEPUbRG/boUK6BhajdWJ3H5V13a18yt3d530jFlR/0cTSlF/S1mFrdNSmWhtY1DOzTV+oWGYUm5tPRmA8V5KA==
+releaseDate: '2022-10-24T01:41:17.415Z'
